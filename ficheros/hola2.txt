@@ -2,3 +2,5 @@ Fase 1: Comprension del negocio.hg
 estoy escribiendo 
 otro intento
 no comprendo este raro git
+gggggggggggggggggggggit log
+ggggggggggggggggggggggggggg
