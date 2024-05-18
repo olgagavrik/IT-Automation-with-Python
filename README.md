@@ -1,1 +1,3 @@
-# Este repositorio contiene prácticas de un curso Git y GitHub
+IT Automation with Python (by Google)
+Mod1 : Crash Course on Python
+
