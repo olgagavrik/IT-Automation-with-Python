@@ -1,0 +1,11 @@
+BinNumber,BinRange,Count,States
+1,"(526935.67, 4232659.0]",24,"Alaska, Arkansas, Connecticut, Delaware, Hawaii, Idaho, Iowa, Kansas, Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, Oklahoma, Oregon, Rhode Island, South Dakota, Utah, Vermont, West Virginia, Wyoming"
+2,"(4232659.0, 7901692.0]",14,"Alabama, Arizona, Colorado, Indiana, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, Missouri, South Carolina, Tennessee, Washington, Wisconsin"
+3,"(7901692.0, 11570725.0]",6,"Georgia, Michigan, New Jersey, North Carolina, Ohio, Virginia"
+4,"(11570725.0, 15239758.0]",2,"Illinois, Pennsylvania"
+5,"(15239758.0, 18908791.0]",1,Florida
+6,"(18908791.0, 22577824.0]",1,New York
+7,"(22577824.0, 26246857.0]",1,Texas
+8,"(26246857.0, 29915890.0]",0,
+9,"(29915890.0, 33584923.0]",0,
+10,"(33584923.0, 37253956.0]",1,California
