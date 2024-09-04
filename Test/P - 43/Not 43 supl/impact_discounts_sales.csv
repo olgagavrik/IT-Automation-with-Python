@@ -1,0 +1,4 @@
+Country,SalesWithDiscount,SalesWithoutDiscount,PercentageWithDiscount,PercentageWithoutDiscount
+United Kingdom,121597.62,0.0,100.0,0.0
+Germany,74200.86,0.0,100.0,0.0
+Denmark,47287.39,0.0,100.0,0.0
